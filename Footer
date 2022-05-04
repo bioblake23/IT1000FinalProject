@@ -1,0 +1,14 @@
+</section>
+
+</section>
+
+<footer class="footer">
+
+<p>
+
+<marquee onmouseover="this.stop();" onmouseout="this.start();" behavior="alternate">This page is created by
+
+<span>Blake Meyer</span><sup>
+
+</p>
+    </footer>
